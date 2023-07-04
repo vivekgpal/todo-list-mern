@@ -1,0 +1,38 @@
+.homeRegisterButton{
+    margin-left: 1200px;
+    margin-top: 40px;
+}
+.homeLoginButton{
+    margin-left: 100px;
+}
+.item {
+    background-color: blanchedalmond;
+    margin-bottom: 10px;
+    width: 500px;border-radius: 7px;
+}
+.items{
+    font-size: 40px;
+    font-weight: bolder;
+    margin-right: 40px;
+}
+.itemName{
+    margin-left: 20px;
+}
+.removeBtn{
+    
+   position: absolute;
+   right: 1000px;
+   margin-top: 13px;
+   
+    color: black;
+    border: none;
+    font-size: large;
+    font-weight: bold;
+}
+.home{
+    margin-left: 0px;
+}
+.home h1{
+    font-size: 60px;
+    
+}
